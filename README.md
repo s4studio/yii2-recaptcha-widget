@@ -4,10 +4,10 @@ Based on Google reCaptcha API 2.0 and 3.0.
 
 [![Packagist](https://img.shields.io/packagist/dt/s4studio/yii2-recaptcha-widget.svg)]() [![Packagist](https://img.shields.io/packagist/v/s4studio/yii2-recaptcha-widget.svg)]()  [![license](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
-Upgrade to 2.x version
+Urgent
 ------------
-Warning! Classes `ReCaptcha` and `ReCaptchaValidator` is deprecated. Please replace their to `ReCaptchaConfig`,
-`ReCaptcha2` and `ReCaptchaValidator2`.
+Warning! Classes `ReCaptcha` and `ReCaptchaValidator` were removed.
+Original project provided by `himiklab` was dropped. 
 
 Installation
 ------------
