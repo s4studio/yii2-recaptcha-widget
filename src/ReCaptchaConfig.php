@@ -1,18 +1,18 @@
 <?php
 /**
- * @link https://github.com/himiklab/yii2-recaptcha-widget
+ * @link https://github.com/s4studio/yii2-recaptcha-widget
  * @copyright Copyright (c) 2014-2019 HimikLab
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace himiklab\yii2\recaptcha;
+namespace s4studio\recaptcha;
 
 /**
  * Yii2 Google reCAPTCHA widget global config.
  *
  * @see https://developers.google.com/recaptcha
  * @author HimikLab
- * @package himiklab\yii2\recaptcha
+ * @package s4studio\recaptcha
  */
 class ReCaptchaConfig
 {

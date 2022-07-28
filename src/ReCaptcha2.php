@@ -1,11 +1,11 @@
 <?php
 /**
- * @link https://github.com/himiklab/yii2-recaptcha-widget
+ * @link https://github.com/s4studio/yii2-recaptcha-widget
  * @copyright Copyright (c) 2014-2019 HimikLab
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace himiklab\yii2\recaptcha;
+namespace s4studio\recaptcha;
 
 use Yii;
 use yii\base\InvalidConfigException;
@@ -38,7 +38,7 @@ use yii\widgets\InputWidget;
  *
  * @see https://developers.google.com/recaptcha
  * @author HimikLab
- * @package himiklab\yii2\recaptcha
+ * @package s4studio\recaptcha
  */
 class ReCaptcha2 extends InputWidget
 {
