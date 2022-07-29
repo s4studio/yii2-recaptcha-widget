@@ -11,6 +11,10 @@
     "authors": [
         {
             "name": "HimikLab",
+            "homepage": "https://github.com/himiklab/"
+        },
+        {
+            "name": "s4studio",
             "homepage": "https://github.com/s4studio/"
         }
     ],
@@ -23,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "himiklab\\yii2\\recaptcha\\": "src/"
+            "s4studio\\recaptcha\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "himiklab\\yii2\\recaptcha\\tests\\": "tests/"
+            "s4studio\\recaptcha\\tests\\": "tests/"
         }
     }
 }
